@@ -1,7 +1,7 @@
 # Dimensionality Reduction Techniques
 <br>
-The objective: Applying dimensionality reduction on the auto-mpg dataset and doing bank customer segmentation<br>
-<br>
+**Objective:**<br> 
+Applying dimensionality reduction on the auto-mpg dataset and doing bank customer segmentation<br>
 <br>
 **Course**<br> 
 Data Analysis & Visualization <br>
