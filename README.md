@@ -1,2 +1,13 @@
-# dimensionality-reduction-techniques
-The objective of this problem is to explore the data and reduce the number of features by using dimensionality reduction techniques like PCA and TSNE and generate meaningful insights.
+# Dimensionality Reduction Techniques
+<br>
+The objective: Applying dimensionality reduction on the auto-mpg dataset and doing bank customer segmentation<br>
+<br>
+<br>
+**Course**<br> 
+Data Analysis & Visualization <br>
+<br>
+
+The first part of this project involves exploring the auto-mpg dataset by applying dimensionality reduction techniques and visualizing the data in lower dimensions to extract insights. The second part involves segmenting the bank customers to help the bank upgrading the service delivery model and ensure that customers queries are resolved faster.<br>
+
+**Skills and Tools:**<br>
+PCA, t-sne, Clustering
